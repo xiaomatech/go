@@ -59,3 +59,5 @@
     go get -u github.com/vishvananda/netns
     go get -u github.com/urfave/cli
     go get -u github.com/dropbox/godropbox
+    go get -u github.com/siddontang/go-mysql-elasticsearch
+    go get -u github.com/github/gh-ost
