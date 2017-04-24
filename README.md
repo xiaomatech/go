@@ -4,7 +4,6 @@
     go get -u github.com/arnauddri/algorithms
     go get -u github.com/uber/go-torch
     go get -u github.com/asaskevich/govalidator
-    go get -u github.com/rcrowley/go-metrics
     go get -u github.com/spf13/viper
     go get -u github.com/afex/hystrix-go
     go get -u github.com/emirpasic/gods
@@ -38,6 +37,7 @@
     go get -u github.com/coreos/etcd/raft
     go get -u github.com/hashicorp/consul/api
     go get -u github.com/go-kit/kit
+    go get -u github.com/koding/kite
     go get -u google.golang.org/grpc
     go get -u github.com/samuel/go-zookeeper
     go get -u github.com/samuel/go-thrift
