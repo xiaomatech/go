@@ -44,8 +44,8 @@
     go get -u github.com/chanxuehong/wechat.v2
     go get -u github.com/hugozhu/goweibo
     go get -u github.com/markbates/goth
-    go get -u github.com/kataras/iris/iris
-    go get -u github.com/valyala/fasthttp
+    go get -u github.com/revel/cmd/revel
+    go get -u github.com/julienschmidt/httprouter
     go get -u github.com/rcrowley/go-metrics
     go get -u github.com/benbjohnson/clock
     go get -u github.com/roylee0704/gron
@@ -61,3 +61,6 @@
     go get -u github.com/dropbox/godropbox
     go get -u github.com/siddontang/go-mysql-elasticsearch
     go get -u github.com/github/gh-ost
+    go get -u github.com/stretchr/testify
+    go get -u github.com/golang/dep/cmd/dep
+
