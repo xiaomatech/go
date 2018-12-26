@@ -55,3 +55,4 @@
     go get -u github.com/golang/dep/cmd/dep
     go get -u github.com/mongodb/mongo-go-driver
     go get -u github.com/cep21/circuit
+    go get -u go.uber.org/zap
