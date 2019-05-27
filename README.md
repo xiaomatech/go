@@ -1,8 +1,8 @@
 # go 工具箱
     go get -u github.com/shirou/gopsutil
+    go get -u github.com/sirupsen/logrus
     go get -u github.com/fogleman/pt
     go get -u github.com/arnauddri/algorithms
-    go get -u github.com/uber/go-torch
     go get -u github.com/asaskevich/govalidator
     go get -u github.com/spf13/viper
     go get -u github.com/afex/hystrix-go
